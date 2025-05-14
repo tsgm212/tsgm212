@@ -1,1 +1,1 @@
-Build an swesome platform.
+Build an awesome platform.
